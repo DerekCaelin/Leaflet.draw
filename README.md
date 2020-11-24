@@ -163,7 +163,7 @@ and the generated html documentation is saved to `./docs/leaflet-draw-latest.htm
 
 Touch friendly version of Leaflet.draw was created by Michael Guild (https://github.com/michaelguild13).
 
-The touch support was initiated due to a demand for it at National Geographic for their Map Maker Projected (http://mapmaker.education.nationalgeographic.com/) that was created by Michael Guild and Daniel Schep (https://github.com/dschep)
+The touch support was initiated due to a demand for it at National Geographic for their MapMaker Project (http://mapmaker.nationalgeographic.org/) that was created by Michael Guild and Daniel Schep (https://github.com/dschep)
 
 Thanks so much to [@brunob](https://github.com/brunob), [@tnightingale](https://github.com/tnightingale), and [@shramov](https://github.com/shramov). I got a lot of ideas from their Leaflet plugins.
 
